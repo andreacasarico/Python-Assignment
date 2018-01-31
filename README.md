@@ -3,3 +3,4 @@ Applied Economic Analysis 1 Python Assignment: https://github.com/andreacasarico
  
 CV:
 https://github.com/andreacasarico/CV.git
+https://github.com/andreacasarico/Python-Assignment/blob/master/Curriculum%20Andrea%20Casarico.pdf
